@@ -1,0 +1,38 @@
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\bin\Debug\YADBS.exe.config
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\bin\Debug\YADBS.exe
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\bin\Debug\YADBS.pdb
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.csprojResolveAssemblyReference.cache
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.ConnectForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.MainForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.csproj.GenerateResource.Cache
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.exe
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.pdb
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.ConnectForm2.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.ExecuteForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.CSVForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.AboutForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.SelectForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.CreateTablesForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.DeleteForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.InsertForm1cs.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.JoinForm.resources
+C:\Users\gohmi\Documents\SharpDevelop Projects\YADBS\YADBS\obj\Debug\YADBS.UpdateForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.csprojResolveAssemblyReference.cache
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.AboutForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.ConnectForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.ConnectForm2.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.CreateTablesForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.CSVForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.DeleteForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.ExecuteForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.InsertForm1cs.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.JoinForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.MainForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.SelectForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.UpdateForm.resources
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.csproj.GenerateResource.Cache
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.exe
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\bin\Debug\YADBS.exe.config
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\bin\Debug\YADBS.exe
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\bin\Debug\YADBS.pdb
+C:\Users\gohmi\Desktop\YADBS\YADBS\src\YADBS\obj\Debug\YADBS.pdb
